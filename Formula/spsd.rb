@@ -4,9 +4,9 @@
 class Spsd < Formula
     desc "state persistent serverless devboxes"
     homepage "https://github.com/tfsingh/spsd"
-    url "https://github.com/tfsingh/spsd/releases/download/v0.1.3/spsd-mac.tar.gz"
-    sha256 "6a5320cd1a81354a4cb2351438bf236fb3c744e80e277bc5129035121438e154"
-    version "0.1.3"
+    url "https://github.com/tfsingh/spsd/releases/download/v0.1.4/spsd-mac.tar.gz"
+    sha256 "1092710bc6475930d18a10ca73aa6882d2da40c902c454b556c94e9318ac91f6"
+    version "0.1.4"
 
     depends_on "flyctl"
 
